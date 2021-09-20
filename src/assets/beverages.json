@@ -1,0 +1,4293 @@
+[
+ {
+   "drinkName": "28 Black Energy Drink",
+   "flOz": 8.46,
+   "calories": 125,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "3 Water",
+   "flOz": 16.9,
+   "calories": 0,
+   "caffeineMg": 50,
+   "caffeineMgFlOz": 3
+ },
+ {
+   "drinkName": "3D Energy Drink",
+   "flOz": 16,
+   "calories": 15,
+   "caffeineMg": 200,
+   "caffeineMgFlOz": 12.5
+ },
+ {
+   "drinkName": "4 Purpose Energy Drink",
+   "flOz": 8.46,
+   "calories": 70,
+   "caffeineMg": 70,
+   "caffeineMgFlOz": 8.3
+ },
+ {
+   "drinkName": "4C Energy Drink Mix",
+   "flOz": 16.9,
+   "calories": 15,
+   "caffeineMg": 170,
+   "caffeineMgFlOz": 10.1
+ },
+ {
+   "drinkName": "5 Hour Energy",
+   "flOz": 1.93,
+   "calories": 4,
+   "caffeineMg": 200,
+   "caffeineMgFlOz": 103.6
+ },
+ {
+   "drinkName": "5 Hour Energy Extra Strength",
+   "flOz": 1.93,
+   "calories": 0,
+   "caffeineMg": 230,
+   "caffeineMgFlOz": 119.2
+ },
+ {
+   "drinkName": "7 Eleven Brewed Coffee",
+   "flOz": 16,
+   "calories": 5,
+   "caffeineMg": 280,
+   "caffeineMgFlOz": 17.5
+ },
+ {
+   "drinkName": "7-Eleven Energy Shot",
+   "flOz": 2,
+   "calories": 0,
+   "caffeineMg": 260,
+   "caffeineMgFlOz": 130
+ },
+ {
+   "drinkName": "7-Up",
+   "flOz": 12,
+   "calories": 140,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "A&W Cream Soda",
+   "flOz": 12,
+   "calories": 170,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "A&W Root Beer",
+   "flOz": 12,
+   "calories": 170,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "A&W Zero Sugar Cream Soda",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "ABB Turbo Tea Zero",
+   "flOz": 18,
+   "calories": 0,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 6.7
+ },
+ {
+   "drinkName": "Adrenaline Shoc",
+   "flOz": 16,
+   "calories": 10,
+   "caffeineMg": 300,
+   "caffeineMgFlOz": 18.8
+ },
+ {
+   "drinkName": "Advocare Slam Energy Shot",
+   "flOz": 2,
+   "calories": 10,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 60
+ },
+ {
+   "drinkName": "Advocare Slim",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 15
+ },
+ {
+   "drinkName": "Afri Cola",
+   "flOz": 11.16,
+   "calories": 139,
+   "caffeineMg": 83,
+   "caffeineMgFlOz": 7.4
+ },
+ {
+   "drinkName": "AHA Sparkling Water",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 30,
+   "caffeineMgFlOz": 2.5
+ },
+ {
+   "drinkName": "Alani Nu Energy Drink",
+   "flOz": 12,
+   "calories": 10,
+   "caffeineMg": 200,
+   "caffeineMgFlOz": 16.7
+ },
+ {
+   "drinkName": "Ale 8 1",
+   "flOz": 12,
+   "calories": 120,
+   "caffeineMg": 37,
+   "caffeineMgFlOz": 3.1
+ },
+ {
+   "drinkName": "ALL IN Energy Drink",
+   "flOz": 12,
+   "calories": 25,
+   "caffeineMg": 75,
+   "caffeineMgFlOz": 6.2
+ },
+ {
+   "drinkName": "Alpine Start Instant Coffee",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 15
+ },
+ {
+   "drinkName": "Alsa Energy Drink Mix",
+   "flOz": 16,
+   "calories": 30,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 6.2
+ },
+ {
+   "drinkName": "Americano Coffee",
+   "flOz": 12,
+   "calories": 5,
+   "caffeineMg": 154,
+   "caffeineMgFlOz": 12.8
+ },
+ {
+   "drinkName": "Amino Force Energy Drink",
+   "flOz": 22,
+   "calories": 0,
+   "caffeineMg": 200,
+   "caffeineMgFlOz": 9.1
+ },
+ {
+   "drinkName": "Arbonne Energy Fizz Stck",
+   "flOz": 8,
+   "calories": 15,
+   "caffeineMg": 55,
+   "caffeineMgFlOz": 6.9
+ },
+ {
+   "drinkName": "Arby's Jamocha Shake",
+   "flOz": 16,
+   "calories": 830,
+   "caffeineMg": 12,
+   "caffeineMgFlOz": 0.7
+ },
+ {
+   "drinkName": "Arizona Arnold Palmer Half and Half",
+   "flOz": 16.9,
+   "calories": 180,
+   "caffeineMg": 15,
+   "caffeineMgFlOz": 0.9
+ },
+ {
+   "drinkName": "Arizona Energy Drink Rx",
+   "flOz": 11.5,
+   "calories": 130,
+   "caffeineMg": 127,
+   "caffeineMgFlOz": 11
+ },
+ {
+   "drinkName": "Arizona Iced Tea",
+   "flOz": 16,
+   "calories": 190,
+   "caffeineMg": 30,
+   "caffeineMgFlOz": 1.9
+ },
+ {
+   "drinkName": "Arti Sparkling Water",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "AXIO Energy Drink Mix",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 8.3
+ },
+ {
+   "drinkName": "Bai Antioxidant Infusion",
+   "flOz": 18,
+   "calories": 10,
+   "caffeineMg": 55,
+   "caffeineMgFlOz": 3.1
+ },
+ {
+   "drinkName": "Bai Boost",
+   "flOz": 11.47,
+   "calories": 10,
+   "caffeineMg": 110,
+   "caffeineMgFlOz": 9.6
+ },
+ {
+   "drinkName": "Balance Active Shot",
+   "flOz": 2,
+   "calories": 80,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 50
+ },
+ {
+   "drinkName": "Balance Energy Shot",
+   "flOz": 2,
+   "calories": 77,
+   "caffeineMg": 150,
+   "caffeineMgFlOz": 75
+ },
+ {
+   "drinkName": "Bang Energy",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 300,
+   "caffeineMgFlOz": 18.8
+ },
+ {
+   "drinkName": "Bang Keto Coffee",
+   "flOz": 16,
+   "calories": 130,
+   "caffeineMg": 300,
+   "caffeineMgFlOz": 18.8
+ },
+ {
+   "drinkName": "Bang Natural",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 250,
+   "caffeineMgFlOz": 15.6
+ },
+ {
+   "drinkName": "Bang Shot",
+   "flOz": 3,
+   "calories": 0,
+   "caffeineMg": 300,
+   "caffeineMgFlOz": 100
+ },
+ {
+   "drinkName": "Bang Sweet Tea",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 300,
+   "caffeineMgFlOz": 18.8
+ },
+ {
+   "drinkName": "Barista Bros Iced Coffee",
+   "flOz": 16.91,
+   "calories": 204,
+   "caffeineMg": 140,
+   "caffeineMgFlOz": 8.3
+ },
+ {
+   "drinkName": "Barqs Red Creme Soda",
+   "flOz": 12,
+   "calories": 170,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Barqs Root Beer",
+   "flOz": 12,
+   "calories": 160,
+   "caffeineMg": 22,
+   "caffeineMgFlOz": 1.8
+ },
+ {
+   "drinkName": "Baskin Robbins Cappuccino Blast",
+   "flOz": 24,
+   "calories": 470,
+   "caffeineMg": 234,
+   "caffeineMgFlOz": 9.8
+ },
+ {
+   "drinkName": "Bawls",
+   "flOz": 16,
+   "calories": 190,
+   "caffeineMg": 102,
+   "caffeineMgFlOz": 6.4
+ },
+ {
+   "drinkName": "Beaver Buzz Energy Drink",
+   "flOz": 16,
+   "calories": 240,
+   "caffeineMg": 178,
+   "caffeineMgFlOz": 11.1
+ },
+ {
+   "drinkName": "BEEBAD Energy Drink",
+   "flOz": 8.46,
+   "calories": 110,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Berocca",
+   "flOz": 8,
+   "calories": 5,
+   "caffeineMg": 90,
+   "caffeineMgFlOz": 11.2
+ },
+ {
+   "drinkName": "Berzerk Energy Drink Mix",
+   "flOz": 16,
+   "calories": 5,
+   "caffeineMg": 200,
+   "caffeineMgFlOz": 12.5
+ },
+ {
+   "drinkName": "Best Choice Strawberry Energy Drink Mix",
+   "flOz": 8,
+   "calories": 5,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 15
+ },
+ {
+   "drinkName": "Big Red Soda",
+   "flOz": 12,
+   "calories": 150,
+   "caffeineMg": 34,
+   "caffeineMgFlOz": 2.8
+ },
+ {
+   "drinkName": "Big Train Java Chip Ice Coffee",
+   "flOz": 12,
+   "calories": 410,
+   "caffeineMg": 49,
+   "caffeineMgFlOz": 4.1
+ },
+ {
+   "drinkName": "Big Train Spiced Chai",
+   "flOz": 8,
+   "calories": 210,
+   "caffeineMg": 65,
+   "caffeineMgFlOz": 8.1
+ },
+ {
+   "drinkName": "Bigelow Tea",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 45,
+   "caffeineMgFlOz": 5.6
+ },
+ {
+   "drinkName": "Biggby Brewed Coffee",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 200,
+   "caffeineMgFlOz": 12.5
+ },
+ {
+   "drinkName": "Biggby Creamy Lattes",
+   "flOz": 16,
+   "calories": 387,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 6.2
+ },
+ {
+   "drinkName": "Biggby Espresso",
+   "flOz": 2,
+   "calories": 0,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 50
+ },
+ {
+   "drinkName": "Biggby Iced Coffee",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 155,
+   "caffeineMgFlOz": 9.7
+ },
+ {
+   "drinkName": "Biggby Iced Tea",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 38,
+   "caffeineMgFlOz": 2.4
+ },
+ {
+   "drinkName": "Bing Energy Drink",
+   "flOz": 12,
+   "calories": 40,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Biohazard Coffee",
+   "flOz": 12,
+   "calories": 3,
+   "caffeineMg": 928,
+   "caffeineMgFlOz": 77.3
+ },
+ {
+   "drinkName": "Bizzy Cold Brew",
+   "flOz": 2.67,
+   "calories": 0,
+   "caffeineMg": 125,
+   "caffeineMgFlOz": 46.8
+ },
+ {
+   "drinkName": "Black Bruin Energy Drink",
+   "flOz": 8.46,
+   "calories": 122,
+   "caffeineMg": 38,
+   "caffeineMgFlOz": 4.4
+ },
+ {
+   "drinkName": "Black Ink Coffee",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 144,
+   "caffeineMgFlOz": 12
+ },
+ {
+   "drinkName": "Black Insomnia Coffee",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 1105,
+   "caffeineMgFlOz": 92.1
+ },
+ {
+   "drinkName": "Black Label Brewed Coffee",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 1555,
+   "caffeineMgFlOz": 129.6
+ },
+ {
+   "drinkName": "Blu Frog Energy Drink",
+   "flOz": 8.46,
+   "calories": 90,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Blue Bolt (UK)",
+   "flOz": 8.46,
+   "calories": 112,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Blue Charge (UK)",
+   "flOz": 8.46,
+   "calories": 49,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Blue Spark (UK)",
+   "flOz": 8.46,
+   "calories": 56,
+   "caffeineMg": 75,
+   "caffeineMgFlOz": 8.9
+ },
+ {
+   "drinkName": "Bodyarmour Edge",
+   "flOz": 20,
+   "calories": 180,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 5
+ },
+ {
+   "drinkName": "Bomb Energy Drink",
+   "flOz": 8.46,
+   "calories": 0,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Bomba (EU)",
+   "flOz": 8.4,
+   "calories": 123,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Boost Energy (UK)",
+   "flOz": 8.46,
+   "calories": 58,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Boost Nutritional Drink",
+   "flOz": 8,
+   "calories": 240,
+   "caffeineMg": 5,
+   "caffeineMgFlOz": 0.6
+ },
+ {
+   "drinkName": "Bottled Iced Coffee Dunkin Donuts",
+   "flOz": 13.7,
+   "calories": 260,
+   "caffeineMg": 171,
+   "caffeineMgFlOz": 12.5
+ },
+ {
+   "drinkName": "BreinFuel",
+   "flOz": 12,
+   "calories": 110,
+   "caffeineMg": 360,
+   "caffeineMgFlOz": 30
+ },
+ {
+   "drinkName": "Brew Dr Kombucha Uplift",
+   "flOz": 14,
+   "calories": 80,
+   "caffeineMg": 130,
+   "caffeineMgFlOz": 9.3
+ },
+ {
+   "drinkName": "Brisk Iced Tea",
+   "flOz": 12,
+   "calories": 70,
+   "caffeineMg": 11,
+   "caffeineMgFlOz": 0.9
+ },
+ {
+   "drinkName": "Brown Rice Tea",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 4,
+   "caffeineMgFlOz": 0.5
+ },
+ {
+   "drinkName": "Bubbl'r Sparkling Water",
+   "flOz": 12,
+   "calories": 5,
+   "caffeineMg": 69,
+   "caffeineMgFlOz": 5.8
+ },
+ {
+   "drinkName": "Bubly Bounce Sparkling Water",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 35,
+   "caffeineMgFlOz": 2.9
+ },
+ {
+   "drinkName": "Bubly Sparkling Water",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Bulletproof Coffee",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 145,
+   "caffeineMgFlOz": 18.1
+ },
+ {
+   "drinkName": "Burn Energy Drink",
+   "flOz": 12,
+   "calories": 163,
+   "caffeineMg": 112,
+   "caffeineMgFlOz": 9.3
+ },
+ {
+   "drinkName": "C4 Energy Drink",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 200,
+   "caffeineMgFlOz": 12.5
+ },
+ {
+   "drinkName": "C4 On The Go",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 200,
+   "caffeineMgFlOz": 16.7
+ },
+ {
+   "drinkName": "C4 Smart Energy Drink",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 200,
+   "caffeineMgFlOz": 12.5
+ },
+ {
+   "drinkName": "C4 Ultimate Energy Drink",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 300,
+   "caffeineMgFlOz": 18.8
+ },
+ {
+   "drinkName": "Cafe Bustelo",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 150,
+   "caffeineMgFlOz": 12.5
+ },
+ {
+   "drinkName": "Cafe Con Leche",
+   "flOz": 6,
+   "calories": 56,
+   "caffeineMg": 154,
+   "caffeineMgFlOz": 25.7
+ },
+ {
+   "drinkName": "Caffe Mocha",
+   "flOz": 12,
+   "calories": 239,
+   "caffeineMg": 152,
+   "caffeineMgFlOz": 12.7
+ },
+ {
+   "drinkName": "Caffe Nero Coffee",
+   "flOz": 12,
+   "calories": 5,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 13.3
+ },
+ {
+   "drinkName": "Califia Farms Cold Brew Coffee",
+   "flOz": 8,
+   "calories": 10,
+   "caffeineMg": 180,
+   "caffeineMgFlOz": 22.5
+ },
+ {
+   "drinkName": "Canada Dry Green Tea Ginger Ale",
+   "flOz": 12,
+   "calories": 140,
+   "caffeineMg": 9,
+   "caffeineMgFlOz": 0.8
+ },
+ {
+   "drinkName": "Cannonball Coffee Maximum Charge (UK)",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 1101,
+   "caffeineMgFlOz": 91.8
+ },
+ {
+   "drinkName": "Cappuccino",
+   "flOz": 12,
+   "calories": 97,
+   "caffeineMg": 154,
+   "caffeineMgFlOz": 12.8
+ },
+ {
+   "drinkName": "Carabao Energy Drink (UK)",
+   "flOz": 11.16,
+   "calories": 63,
+   "caffeineMg": 106,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Caribou BOUsted Sparkling Water",
+   "flOz": 11.5,
+   "calories": 0,
+   "caffeineMg": 75,
+   "caffeineMgFlOz": 6.5
+ },
+ {
+   "drinkName": "Caribou Brewed Coffee",
+   "flOz": 16,
+   "calories": 5,
+   "caffeineMg": 305,
+   "caffeineMgFlOz": 19.1
+ },
+ {
+   "drinkName": "Caribou Canned Cold Brew",
+   "flOz": 11.5,
+   "calories": 10,
+   "caffeineMg": 177,
+   "caffeineMgFlOz": 15.4
+ },
+ {
+   "drinkName": "CBD Coffee",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 12.5
+ },
+ {
+   "drinkName": "Celsius Energy Drink",
+   "flOz": 12,
+   "calories": 10,
+   "caffeineMg": 200,
+   "caffeineMgFlOz": 16.7
+ },
+ {
+   "drinkName": "Celsius Heat Energy Drink",
+   "flOz": 16,
+   "calories": 15,
+   "caffeineMg": 300,
+   "caffeineMgFlOz": 18.8
+ },
+ {
+   "drinkName": "Celsius Stevia",
+   "flOz": 12,
+   "calories": 15,
+   "caffeineMg": 200,
+   "caffeineMgFlOz": 16.7
+ },
+ {
+   "drinkName": "Chai Tea",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 50,
+   "caffeineMgFlOz": 6.2
+ },
+ {
+   "drinkName": "Chameleon Cold Brew Coffee",
+   "flOz": 8,
+   "calories": 15,
+   "caffeineMg": 200,
+   "caffeineMgFlOz": 25
+ },
+ {
+   "drinkName": "Chameleon Cold Brew RTD",
+   "flOz": 10,
+   "calories": 10,
+   "caffeineMg": 230,
+   "caffeineMgFlOz": 23
+ },
+ {
+   "drinkName": "Chameleon Cold Brew With Milk",
+   "flOz": 11,
+   "calories": 100,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 9.1
+ },
+ {
+   "drinkName": "Cheerwine",
+   "flOz": 12,
+   "calories": 150,
+   "caffeineMg": 47,
+   "caffeineMgFlOz": 3.9
+ },
+ {
+   "drinkName": "Chick-fil-A Brewed Coffee",
+   "flOz": 10,
+   "calories": 0,
+   "caffeineMg": 136,
+   "caffeineMgFlOz": 13.6
+ },
+ {
+   "drinkName": "Chick-fil-A Frosted Coffee",
+   "flOz": 14,
+   "calories": 240,
+   "caffeineMg": 130,
+   "caffeineMgFlOz": 9.3
+ },
+ {
+   "drinkName": "Chick-fil-A Iced Coffee",
+   "flOz": 14,
+   "calories": 190,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 5.7
+ },
+ {
+   "drinkName": "Chick-fil-A Iced Tea",
+   "flOz": 16,
+   "calories": 120,
+   "caffeineMg": 62,
+   "caffeineMgFlOz": 3.9
+ },
+ {
+   "drinkName": "Choffy (roasted cacao)",
+   "flOz": 6,
+   "calories": 0,
+   "caffeineMg": 23,
+   "caffeineMgFlOz": 3.8
+ },
+ {
+   "drinkName": "Cintron Energy Drink",
+   "flOz": 8.4,
+   "calories": 60,
+   "caffeineMg": 85,
+   "caffeineMgFlOz": 10.1
+ },
+ {
+   "drinkName": "Clif Shot Energy Gel",
+   "flOz": 1.2,
+   "calories": 100,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 83.3
+ },
+ {
+   "drinkName": "Club Mate (EU)",
+   "flOz": 16.91,
+   "calories": 160,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 5.9
+ },
+ {
+   "drinkName": "Coca-Cola Caffeine Free",
+   "flOz": 12,
+   "calories": 140,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Coca-Cola Cherry",
+   "flOz": 12,
+   "calories": 150,
+   "caffeineMg": 34,
+   "caffeineMgFlOz": 2.8
+ },
+ {
+   "drinkName": "Coca-Cola Cherry Vanilla",
+   "flOz": 12,
+   "calories": 140,
+   "caffeineMg": 34,
+   "caffeineMgFlOz": 2.8
+ },
+ {
+   "drinkName": "Coca-Cola Cherry Zero Sugar",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 34,
+   "caffeineMgFlOz": 2.8
+ },
+ {
+   "drinkName": "Coca-Cola Classic",
+   "flOz": 12,
+   "calories": 140,
+   "caffeineMg": 34,
+   "caffeineMgFlOz": 2.8
+ },
+ {
+   "drinkName": "Coca-Cola Energy",
+   "flOz": 12,
+   "calories": 140,
+   "caffeineMg": 114,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Coca-Cola Orange Vanilla",
+   "flOz": 12,
+   "calories": 140,
+   "caffeineMg": 34,
+   "caffeineMgFlOz": 2.8
+ },
+ {
+   "drinkName": "Coca-Cola Vanilla",
+   "flOz": 12,
+   "calories": 150,
+   "caffeineMg": 34,
+   "caffeineMgFlOz": 2.8
+ },
+ {
+   "drinkName": "Coca-Cola Vanilla Zero Sugar",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 34,
+   "caffeineMgFlOz": 2.8
+ },
+ {
+   "drinkName": "Coca-Cola With Coffee",
+   "flOz": 12,
+   "calories": 70,
+   "caffeineMg": 69,
+   "caffeineMgFlOz": 5.8
+ },
+ {
+   "drinkName": "Coca-Cola Zero Sugar",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 34,
+   "caffeineMgFlOz": 2.8
+ },
+ {
+   "drinkName": "Cocaine Energy Drink",
+   "flOz": 12,
+   "calories": 90,
+   "caffeineMg": 280,
+   "caffeineMgFlOz": 23.3
+ },
+ {
+   "drinkName": "Coffee",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 163,
+   "caffeineMgFlOz": 20.4
+ },
+ {
+   "drinkName": "Coffee (Decaf, Instant)",
+   "flOz": 8,
+   "calories": 6,
+   "caffeineMg": 2,
+   "caffeineMgFlOz": 0.3
+ },
+ {
+   "drinkName": "Coffee (Instant)",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 57,
+   "caffeineMgFlOz": 7.1
+ },
+ {
+   "drinkName": "Coffee Bean & Tea leaf Coffee",
+   "flOz": 16,
+   "calories": 5,
+   "caffeineMg": 333,
+   "caffeineMgFlOz": 20.8
+ },
+ {
+   "drinkName": "Coffee Leaf Tea",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 20,
+   "caffeineMgFlOz": 2.5
+ },
+ {
+   "drinkName": "COGO Caffeinated Hot Chocolate",
+   "flOz": 6,
+   "calories": 110,
+   "caffeineMg": 98,
+   "caffeineMgFlOz": 16.3
+ },
+ {
+   "drinkName": "Cold Brew Tea",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 70,
+   "caffeineMgFlOz": 8.8
+ },
+ {
+   "drinkName": "CoolBrew Coffee",
+   "flOz": 10,
+   "calories": 0,
+   "caffeineMg": 60,
+   "caffeineMgFlOz": 6
+ },
+ {
+   "drinkName": "Costa Coffee",
+   "flOz": 8.69,
+   "calories": 0,
+   "caffeineMg": 277,
+   "caffeineMgFlOz": 31.9
+ },
+ {
+   "drinkName": "Cran Energy Juice",
+   "flOz": 10,
+   "calories": 40,
+   "caffeineMg": 70,
+   "caffeineMgFlOz": 7
+ },
+ {
+   "drinkName": "Crave Energy Drink (UK)",
+   "flOz": 8.43,
+   "calories": 10,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Crio Bru Brewed Cacao",
+   "flOz": 8,
+   "calories": 20,
+   "caffeineMg": 10,
+   "caffeineMgFlOz": 1.2
+ },
+ {
+   "drinkName": "Crunk Energy Drink",
+   "flOz": 16,
+   "calories": 200,
+   "caffeineMg": 192,
+   "caffeineMgFlOz": 12
+ },
+ {
+   "drinkName": "Crystal Light Energy Mix",
+   "flOz": 16,
+   "calories": 10,
+   "caffeineMg": 60,
+   "caffeineMgFlOz": 3.8
+ },
+ {
+   "drinkName": "Crystal Light Iced Tea",
+   "flOz": 8,
+   "calories": 5,
+   "caffeineMg": 10,
+   "caffeineMgFlOz": 1.2
+ },
+ {
+   "drinkName": "Dare Iced Coffee",
+   "flOz": 16.91,
+   "calories": 429,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Dark Dog Organic Energy",
+   "flOz": 12,
+   "calories": 110,
+   "caffeineMg": 114,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Death Wish Canned Cold Brew",
+   "flOz": 8,
+   "calories": 15,
+   "caffeineMg": 300,
+   "caffeineMgFlOz": 37.5
+ },
+ {
+   "drinkName": "Death Wish Coffee",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 728,
+   "caffeineMgFlOz": 60.7
+ },
+ {
+   "drinkName": "Death Wish Latte",
+   "flOz": 8,
+   "calories": 170,
+   "caffeineMg": 300,
+   "caffeineMgFlOz": 37.5
+ },
+ {
+   "drinkName": "Decaf Coffee",
+   "flOz": 8,
+   "calories": 2,
+   "caffeineMg": 6,
+   "caffeineMgFlOz": 0.7
+ },
+ {
+   "drinkName": "Demon Energy Drink",
+   "flOz": 16.91,
+   "calories": 253,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Diet Barqs Root Beer",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Diet Cheerwine",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 47,
+   "caffeineMgFlOz": 3.9
+ },
+ {
+   "drinkName": "Diet Coke",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 46,
+   "caffeineMgFlOz": 3.8
+ },
+ {
+   "drinkName": "Diet Coke with Splenda",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 46,
+   "caffeineMgFlOz": 3.8
+ },
+ {
+   "drinkName": "Diet Dr Pepper",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 41,
+   "caffeineMgFlOz": 3.4
+ },
+ {
+   "drinkName": "Diet Mountain Dew",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 54,
+   "caffeineMgFlOz": 4.5
+ },
+ {
+   "drinkName": "Diet Pepsi",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 35,
+   "caffeineMgFlOz": 2.9
+ },
+ {
+   "drinkName": "Diet RC Cola",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 48,
+   "caffeineMgFlOz": 4
+ },
+ {
+   "drinkName": "Diet Wild Cherry Pepsi",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 38,
+   "caffeineMgFlOz": 3.2
+ },
+ {
+   "drinkName": "doc Soda",
+   "flOz": 12,
+   "calories": 150,
+   "caffeineMg": 60,
+   "caffeineMgFlOz": 5
+ },
+ {
+   "drinkName": "Double Cola",
+   "flOz": 12,
+   "calories": 160,
+   "caffeineMg": 36,
+   "caffeineMgFlOz": 3
+ },
+ {
+   "drinkName": "Dr Pepper",
+   "flOz": 12,
+   "calories": 150,
+   "caffeineMg": 42,
+   "caffeineMgFlOz": 3.5
+ },
+ {
+   "drinkName": "Dr Pepper 10",
+   "flOz": 12,
+   "calories": 10,
+   "caffeineMg": 51,
+   "caffeineMgFlOz": 4.2
+ },
+ {
+   "drinkName": "Dr Shasta Soda",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 29,
+   "caffeineMgFlOz": 2.4
+ },
+ {
+   "drinkName": "Driftaway Coffee",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 20
+ },
+ {
+   "drinkName": "Dripdash Kyoto Coffee",
+   "flOz": 6,
+   "calories": 0,
+   "caffeineMg": 225,
+   "caffeineMgFlOz": 37.5
+ },
+ {
+   "drinkName": "Duff Energy Drink",
+   "flOz": 12,
+   "calories": 170,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Dunkin Donuts Shot In The Dark",
+   "flOz": 8.1,
+   "calories": 80,
+   "caffeineMg": 134,
+   "caffeineMgFlOz": 16.5
+ },
+ {
+   "drinkName": "Dunkin' Cold Brew",
+   "flOz": 24,
+   "calories": 5,
+   "caffeineMg": 260,
+   "caffeineMgFlOz": 10.8
+ },
+ {
+   "drinkName": "Dunkin' Donuts Brewed Coffee",
+   "flOz": 14,
+   "calories": 5,
+   "caffeineMg": 210,
+   "caffeineMgFlOz": 15
+ },
+ {
+   "drinkName": "Dunkin' Donuts Dunkaccino",
+   "flOz": 14,
+   "calories": 350,
+   "caffeineMg": 83,
+   "caffeineMgFlOz": 5.9
+ },
+ {
+   "drinkName": "Dunkin' Donuts Extra Charged Coffee",
+   "flOz": 14,
+   "calories": 10,
+   "caffeineMg": 252,
+   "caffeineMgFlOz": 18
+ },
+ {
+   "drinkName": "Dunkin' Donuts Iced Coffee",
+   "flOz": 24,
+   "calories": 20,
+   "caffeineMg": 297,
+   "caffeineMgFlOz": 12.4
+ },
+ {
+   "drinkName": "Dunkin' Donuts Iced Latte",
+   "flOz": 24,
+   "calories": 100,
+   "caffeineMg": 166,
+   "caffeineMgFlOz": 6.9
+ },
+ {
+   "drinkName": "Dunkin' Donuts Iced Tea",
+   "flOz": 24,
+   "calories": 230,
+   "caffeineMg": 63,
+   "caffeineMgFlOz": 2.6
+ },
+ {
+   "drinkName": "Dunkin' Donuts Latte",
+   "flOz": 14,
+   "calories": 100,
+   "caffeineMg": 166,
+   "caffeineMgFlOz": 11.9
+ },
+ {
+   "drinkName": "Dutch Bros Blue Rebel Energy Drink",
+   "flOz": 8.4,
+   "calories": 116,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Dutch Bros Coffee (Classic)",
+   "flOz": 20,
+   "calories": 10,
+   "caffeineMg": 187,
+   "caffeineMgFlOz": 9.3
+ },
+ {
+   "drinkName": "E6 Energy Shot",
+   "flOz": 1.93,
+   "calories": 0,
+   "caffeineMg": 235,
+   "caffeineMgFlOz": 121.8
+ },
+ {
+   "drinkName": "EBOOST Energy Drink Mix",
+   "flOz": 8,
+   "calories": 5,
+   "caffeineMg": 110,
+   "caffeineMgFlOz": 13.8
+ },
+ {
+   "drinkName": "EBOOST Super Fuel",
+   "flOz": 12,
+   "calories": 20,
+   "caffeineMg": 110,
+   "caffeineMgFlOz": 9.2
+ },
+ {
+   "drinkName": "EBOOST Workout Crusher Mix",
+   "flOz": 8,
+   "calories": 40,
+   "caffeineMg": 175,
+   "caffeineMgFlOz": 21.9
+ },
+ {
+   "drinkName": "Eight O'Clock Coffee",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 112,
+   "caffeineMgFlOz": 14
+ },
+ {
+   "drinkName": "Einstein Bros Coffee",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 206,
+   "caffeineMgFlOz": 12.9
+ },
+ {
+   "drinkName": "Electric Monkey Wild Energy Drink",
+   "flOz": 16,
+   "calories": 220,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "EnerBee Energy Drink",
+   "flOz": 12,
+   "calories": 80,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 8.3
+ },
+ {
+   "drinkName": "Equip Pure Energy Shot",
+   "flOz": 1.8,
+   "calories": 35,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 55.6
+ },
+ {
+   "drinkName": "Espresso Monster",
+   "flOz": 8.4,
+   "calories": 170,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 19
+ },
+ {
+   "drinkName": "Espresso Shot",
+   "flOz": 1.5,
+   "calories": 0,
+   "caffeineMg": 77,
+   "caffeineMgFlOz": 51.3
+ },
+ {
+   "drinkName": "Eternal Energy Extra Strength",
+   "flOz": 1.93,
+   "calories": 0,
+   "caffeineMg": 280,
+   "caffeineMgFlOz": 145.1
+ },
+ {
+   "drinkName": "Eternal Energy Shot",
+   "flOz": 1.93,
+   "calories": 0,
+   "caffeineMg": 230,
+   "caffeineMgFlOz": 119.2
+ },
+ {
+   "drinkName": "Euro Shopper Energy Drink (EU)",
+   "flOz": 8.46,
+   "calories": 115,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Fakeer Energy Drink (EU)",
+   "flOz": 12.52,
+   "calories": 148,
+   "caffeineMg": 118,
+   "caffeineMgFlOz": 9.4
+ },
+ {
+   "drinkName": "Fanta",
+   "flOz": 12,
+   "calories": 160,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Fast Lane Black Tea",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 110,
+   "caffeineMgFlOz": 13.8
+ },
+ {
+   "drinkName": "Faygo Cola",
+   "flOz": 12,
+   "calories": 165,
+   "caffeineMg": 43,
+   "caffeineMgFlOz": 3.6
+ },
+ {
+   "drinkName": "Faygo Moon Mist",
+   "flOz": 12,
+   "calories": 150,
+   "caffeineMg": 20,
+   "caffeineMgFlOz": 1.6
+ },
+ {
+   "drinkName": "Flat White",
+   "flOz": 12,
+   "calories": 170,
+   "caffeineMg": 130,
+   "caffeineMgFlOz": 10.8
+ },
+ {
+   "drinkName": "Folgers Coffee",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 112,
+   "caffeineMgFlOz": 14
+ },
+ {
+   "drinkName": "Forto Organic Coffee Shot",
+   "flOz": 2,
+   "calories": 35,
+   "caffeineMg": 225,
+   "caffeineMgFlOz": 112.5
+ },
+ {
+   "drinkName": "Fresca",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Fritz Kola (EU)",
+   "flOz": 11.16,
+   "calories": 135,
+   "caffeineMg": 83,
+   "caffeineMgFlOz": 7.4
+ },
+ {
+   "drinkName": "Full Throttle Energy Drink",
+   "flOz": 16,
+   "calories": 220,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Fuze Iced Tea",
+   "flOz": 24,
+   "calories": 160,
+   "caffeineMg": 24,
+   "caffeineMgFlOz": 1
+ },
+ {
+   "drinkName": "Gatorade Bolt 24 Energize",
+   "flOz": 16.9,
+   "calories": 40,
+   "caffeineMg": 75,
+   "caffeineMgFlOz": 4.4
+ },
+ {
+   "drinkName": "GFuel Cans",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 300,
+   "caffeineMgFlOz": 18.8
+ },
+ {
+   "drinkName": "GFuel Energy Drink Mix",
+   "flOz": 16,
+   "calories": 15,
+   "caffeineMg": 140,
+   "caffeineMgFlOz": 8.8
+ },
+ {
+   "drinkName": "Ginger Ale",
+   "flOz": 12,
+   "calories": 140,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Gloria Jean's Coffee",
+   "flOz": 2.028,
+   "calories": 0,
+   "caffeineMg": 67,
+   "caffeineMgFlOz": 33
+ },
+ {
+   "drinkName": "Go Fast Energy Drink",
+   "flOz": 16,
+   "calories": 200,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Go Fast High Octane Energy Drink",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 300,
+   "caffeineMgFlOz": 18.8
+ },
+ {
+   "drinkName": "Go Girl Energy Drink",
+   "flOz": 12,
+   "calories": 25,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 8.3
+ },
+ {
+   "drinkName": "Gold Peak Coffee",
+   "flOz": 8,
+   "calories": 5,
+   "caffeineMg": 126,
+   "caffeineMgFlOz": 15.8
+ },
+ {
+   "drinkName": "Gold Peak Tea",
+   "flOz": 18.5,
+   "calories": 0,
+   "caffeineMg": 48,
+   "caffeineMgFlOz": 2.6
+ },
+ {
+   "drinkName": "Gothrider Gasoline Coffee",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 200,
+   "caffeineMgFlOz": 25
+ },
+ {
+   "drinkName": "Gourmesso Coffee Pods",
+   "flOz": 1.35,
+   "calories": 0,
+   "caffeineMg": 65,
+   "caffeineMgFlOz": 48.1
+ },
+ {
+   "drinkName": "Great Value Energy Drink Enhancers",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 50,
+   "caffeineMgFlOz": 6.2
+ },
+ {
+   "drinkName": "Great Value Energy Drink Mix",
+   "flOz": 16,
+   "calories": 10,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 7.5
+ },
+ {
+   "drinkName": "Greek Coffee (Metrios)",
+   "flOz": 2,
+   "calories": 25,
+   "caffeineMg": 50,
+   "caffeineMgFlOz": 25
+ },
+ {
+   "drinkName": "Green Cola",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 37,
+   "caffeineMgFlOz": 3.1
+ },
+ {
+   "drinkName": "Gridlock Energy Drink",
+   "flOz": 16,
+   "calories": 200,
+   "caffeineMg": 140,
+   "caffeineMgFlOz": 8.8
+ },
+ {
+   "drinkName": "Guayaki Canned Yerba Mate",
+   "flOz": 15.5,
+   "calories": 120,
+   "caffeineMg": 150,
+   "caffeineMgFlOz": 9.7
+ },
+ {
+   "drinkName": "Guayaki Yerba Mate Bottled Tea",
+   "flOz": 16,
+   "calories": 80,
+   "caffeineMg": 140,
+   "caffeineMgFlOz": 8.8
+ },
+ {
+   "drinkName": "Guayusa Tea",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 41,
+   "caffeineMgFlOz": 5.1
+ },
+ {
+   "drinkName": "GURU Energy Drink",
+   "flOz": 12,
+   "calories": 115,
+   "caffeineMg": 140,
+   "caffeineMgFlOz": 11.7
+ },
+ {
+   "drinkName": "GURU Sparkling Energy Water",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 8.3
+ },
+ {
+   "drinkName": "GymBrew Coffee",
+   "flOz": 12,
+   "calories": 4,
+   "caffeineMg": 333,
+   "caffeineMgFlOz": 27.8
+ },
+ {
+   "drinkName": "Hell Energy Coffee",
+   "flOz": 8.46,
+   "calories": 150,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 11.8
+ },
+ {
+   "drinkName": "Hell Energy Drink (EU)",
+   "flOz": 8.46,
+   "calories": 115,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Heroec Energy Water",
+   "flOz": 16.9,
+   "calories": 0,
+   "caffeineMg": 60,
+   "caffeineMgFlOz": 3.6
+ },
+ {
+   "drinkName": "Hi Ball Energy Drink",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "HICAF Tea",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 110,
+   "caffeineMgFlOz": 13.8
+ },
+ {
+   "drinkName": "High Brew Coffee",
+   "flOz": 8,
+   "calories": 50,
+   "caffeineMg": 140,
+   "caffeineMgFlOz": 17.5
+ },
+ {
+   "drinkName": "High Voltage Coffee (AU)",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 1150,
+   "caffeineMgFlOz": 95.8
+ },
+ {
+   "drinkName": "Hint Caffeine Kick Water",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 60,
+   "caffeineMgFlOz": 3.8
+ },
+ {
+   "drinkName": "Honest Iced Tea",
+   "flOz": 16.9,
+   "calories": 70,
+   "caffeineMg": 63,
+   "caffeineMgFlOz": 3.7
+ },
+ {
+   "drinkName": "Hyde Xtreme",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 400,
+   "caffeineMgFlOz": 33.3
+ },
+ {
+   "drinkName": "Hype Energy Drink (EU)",
+   "flOz": 8.46,
+   "calories": 108,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "IBC Root Beer",
+   "flOz": 12,
+   "calories": 160,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Illy Issimo Cafe",
+   "flOz": 6.8,
+   "calories": 45,
+   "caffeineMg": 155,
+   "caffeineMgFlOz": 22.8
+ },
+ {
+   "drinkName": "Inca Kola",
+   "flOz": 12,
+   "calories": 140,
+   "caffeineMg": 38,
+   "caffeineMgFlOz": 3.2
+ },
+ {
+   "drinkName": "Indulgio Cappuccino",
+   "flOz": 8,
+   "calories": 79,
+   "caffeineMg": 20,
+   "caffeineMgFlOz": 2.5
+ },
+ {
+   "drinkName": "Inko's White Tea Energy",
+   "flOz": 15.5,
+   "calories": 100,
+   "caffeineMg": 165,
+   "caffeineMgFlOz": 10.6
+ },
+ {
+   "drinkName": "International Delight Iced Coffee",
+   "flOz": 12,
+   "calories": 180,
+   "caffeineMg": 88,
+   "caffeineMgFlOz": 7.3
+ },
+ {
+   "drinkName": "Irn Bru (UK)",
+   "flOz": 11.16,
+   "calories": 65,
+   "caffeineMg": 30,
+   "caffeineMgFlOz": 2.7
+ },
+ {
+   "drinkName": "Java Kick Coffee Cola",
+   "flOz": 12,
+   "calories": 130,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 8.3
+ },
+ {
+   "drinkName": "Java Monster",
+   "flOz": 15,
+   "calories": 220,
+   "caffeineMg": 200,
+   "caffeineMgFlOz": 13.3
+ },
+ {
+   "drinkName": "Java Monster 300",
+   "flOz": 15,
+   "calories": 200,
+   "caffeineMg": 300,
+   "caffeineMgFlOz": 20
+ },
+ {
+   "drinkName": "Joker Mad Energy",
+   "flOz": 16,
+   "calories": 260,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "K Cup Decaf",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 4,
+   "caffeineMgFlOz": 0.5
+ },
+ {
+   "drinkName": "K Cup Tea",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 41,
+   "caffeineMgFlOz": 5.1
+ },
+ {
+   "drinkName": "K-Cup Coffee",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 12.5
+ },
+ {
+   "drinkName": "Kaffn8 Liquified Caffeine",
+   "flOz": 0.25,
+   "calories": 0,
+   "caffeineMg": 75,
+   "caffeineMgFlOz": 300
+ },
+ {
+   "drinkName": "Kickapoo Soda: Joy Juice & Fruit Shine",
+   "flOz": 12,
+   "calories": 190,
+   "caffeineMg": 40,
+   "caffeineMgFlOz": 3.3
+ },
+ {
+   "drinkName": "Kill Cliff Energy X Recover",
+   "flOz": 12,
+   "calories": 20,
+   "caffeineMg": 25,
+   "caffeineMgFlOz": 2.1
+ },
+ {
+   "drinkName": "Kill Cliff Ignite",
+   "flOz": 12,
+   "calories": 25,
+   "caffeineMg": 150,
+   "caffeineMgFlOz": 12.5
+ },
+ {
+   "drinkName": "Killer Coffee (AU)",
+   "flOz": 8.46,
+   "calories": 0,
+   "caffeineMg": 430,
+   "caffeineMgFlOz": 50.8
+ },
+ {
+   "drinkName": "Kin Spritz",
+   "flOz": 8,
+   "calories": 25,
+   "caffeineMg": 50,
+   "caffeineMgFlOz": 6.2
+ },
+ {
+   "drinkName": "Kirkland Energy Shot",
+   "flOz": 2,
+   "calories": 5,
+   "caffeineMg": 180,
+   "caffeineMgFlOz": 90
+ },
+ {
+   "drinkName": "KOE Kombucha",
+   "flOz": 12,
+   "calories": 35,
+   "caffeineMg": 15,
+   "caffeineMgFlOz": 1.2
+ },
+ {
+   "drinkName": "Kombucha Tea",
+   "flOz": 8,
+   "calories": 30,
+   "caffeineMg": 24,
+   "caffeineMgFlOz": 3
+ },
+ {
+   "drinkName": "Kona Gold Energy Drink",
+   "flOz": 12,
+   "calories": 150,
+   "caffeineMg": 115,
+   "caffeineMgFlOz": 9.6
+ },
+ {
+   "drinkName": "La Colombe Cold Brew",
+   "flOz": 9,
+   "calories": 5,
+   "caffeineMg": 180,
+   "caffeineMgFlOz": 20
+ },
+ {
+   "drinkName": "La Colombe Draft Latte",
+   "flOz": 9,
+   "calories": 90,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 13.3
+ },
+ {
+   "drinkName": "La Croix Sparkling Water",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Latte",
+   "flOz": 16,
+   "calories": 160,
+   "caffeineMg": 154,
+   "caffeineMgFlOz": 9.6
+ },
+ {
+   "drinkName": "LevlUp Gaming Booster",
+   "flOz": 16.91,
+   "calories": 8,
+   "caffeineMg": 250,
+   "caffeineMgFlOz": 14.8
+ },
+ {
+   "drinkName": "Limitless Sparkling Water",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 35,
+   "caffeineMgFlOz": 2.9
+ },
+ {
+   "drinkName": "Lipton Iced Tea",
+   "flOz": 20,
+   "calories": 110,
+   "caffeineMg": 25,
+   "caffeineMgFlOz": 1.2
+ },
+ {
+   "drinkName": "Lipton Natural Energy Tea",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 75,
+   "caffeineMgFlOz": 9.4
+ },
+ {
+   "drinkName": "Lipton Tea",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 55,
+   "caffeineMgFlOz": 6.9
+ },
+ {
+   "drinkName": "Liquid Help Energy Drink",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 300,
+   "caffeineMgFlOz": 18.8
+ },
+ {
+   "drinkName": "Liquid Ice Energy Drink",
+   "flOz": 8.3,
+   "calories": 120,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.6
+ },
+ {
+   "drinkName": "Live+  Energy Drink",
+   "flOz": 16.9,
+   "calories": 227,
+   "caffeineMg": 150,
+   "caffeineMgFlOz": 8.9
+ },
+ {
+   "drinkName": "Long Black",
+   "flOz": 6,
+   "calories": 2,
+   "caffeineMg": 154,
+   "caffeineMgFlOz": 25.7
+ },
+ {
+   "drinkName": "Loud Energy Drink",
+   "flOz": 16,
+   "calories": 10,
+   "caffeineMg": 320,
+   "caffeineMgFlOz": 20
+ },
+ {
+   "drinkName": "Lucozade",
+   "flOz": 12.85,
+   "calories": 133,
+   "caffeineMg": 46,
+   "caffeineMgFlOz": 3.6
+ },
+ {
+   "drinkName": "LYFT Energy Mix",
+   "flOz": 8,
+   "calories": 4,
+   "caffeineMg": 125,
+   "caffeineMgFlOz": 15.6
+ },
+ {
+   "drinkName": "M-150 Energy Drink",
+   "flOz": 8.46,
+   "calories": 155,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Mamma Chia Energy",
+   "flOz": 10,
+   "calories": 110,
+   "caffeineMg": 90,
+   "caffeineMgFlOz": 9
+ },
+ {
+   "drinkName": "Mana Energy Potion",
+   "flOz": 1.69,
+   "calories": 25,
+   "caffeineMg": 75,
+   "caffeineMgFlOz": 44.4
+ },
+ {
+   "drinkName": "Marquis Energy Drink",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 8.3
+ },
+ {
+   "drinkName": "Master Brew Kombucha",
+   "flOz": 15.2,
+   "calories": 60,
+   "caffeineMg": 76,
+   "caffeineMgFlOz": 5
+ },
+ {
+   "drinkName": "Matcha Tea",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 64,
+   "caffeineMgFlOz": 8
+ },
+ {
+   "drinkName": "MATI Energy Drink",
+   "flOz": 12,
+   "calories": 90,
+   "caffeineMg": 110,
+   "caffeineMgFlOz": 9.2
+ },
+ {
+   "drinkName": "Maxwell House Coffee",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 112,
+   "caffeineMgFlOz": 14
+ },
+ {
+   "drinkName": "Maxwell House Max Boost Coffee",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 196,
+   "caffeineMgFlOz": 24.5
+ },
+ {
+   "drinkName": "McDonalds (McCafe) Latte",
+   "flOz": 16,
+   "calories": 190,
+   "caffeineMg": 142,
+   "caffeineMgFlOz": 8.9
+ },
+ {
+   "drinkName": "McDonalds (McCafe) Mocha",
+   "flOz": 16,
+   "calories": 380,
+   "caffeineMg": 167,
+   "caffeineMgFlOz": 10.4
+ },
+ {
+   "drinkName": "McDonalds Coffee",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 145,
+   "caffeineMgFlOz": 9.1
+ },
+ {
+   "drinkName": "McDonalds Iced Coffee",
+   "flOz": 11.5,
+   "calories": 180,
+   "caffeineMg": 133,
+   "caffeineMgFlOz": 11.6
+ },
+ {
+   "drinkName": "McDonalds Sweet Tea",
+   "flOz": 32,
+   "calories": 160,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 3.1
+ },
+ {
+   "drinkName": "Mega Monster Energy Drink",
+   "flOz": 24,
+   "calories": 320,
+   "caffeineMg": 240,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Mello Yello",
+   "flOz": 12,
+   "calories": 170,
+   "caffeineMg": 51,
+   "caffeineMgFlOz": 4.2
+ },
+ {
+   "drinkName": "Meltdown Ketone Drink",
+   "flOz": 12,
+   "calories": 18,
+   "caffeineMg": 225,
+   "caffeineMgFlOz": 18.8
+ },
+ {
+   "drinkName": "MiO Energy Water Enhancer",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 60,
+   "caffeineMgFlOz": 7.5
+ },
+ {
+   "drinkName": "Monster Assault",
+   "flOz": 16,
+   "calories": 210,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Monster Dragon Tea",
+   "flOz": 15.5,
+   "calories": 40,
+   "caffeineMg": 155,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Monster Energy",
+   "flOz": 16,
+   "calories": 210,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Monster Hydro",
+   "flOz": 25.4,
+   "calories": 150,
+   "caffeineMg": 188,
+   "caffeineMgFlOz": 7.4
+ },
+ {
+   "drinkName": "Monster Import",
+   "flOz": 18.6,
+   "calories": 190,
+   "caffeineMg": 179,
+   "caffeineMgFlOz": 9.6
+ },
+ {
+   "drinkName": "Monster Juice",
+   "flOz": 16,
+   "calories": 160,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Monster Lo-Carb",
+   "flOz": 16,
+   "calories": 30,
+   "caffeineMg": 140,
+   "caffeineMgFlOz": 8.8
+ },
+ {
+   "drinkName": "Monster Mango Loco",
+   "flOz": 16,
+   "calories": 240,
+   "caffeineMg": 152,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Monster Maxx",
+   "flOz": 12,
+   "calories": 160,
+   "caffeineMg": 200,
+   "caffeineMgFlOz": 16.7
+ },
+ {
+   "drinkName": "Monster Mule",
+   "flOz": 16,
+   "calories": 210,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Monster Pipeline Punch",
+   "flOz": 16,
+   "calories": 190,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Monster Rehab",
+   "flOz": 15.5,
+   "calories": 25,
+   "caffeineMg": 170,
+   "caffeineMgFlOz": 11
+ },
+ {
+   "drinkName": "Monster Ripper Energy Juice (UK)",
+   "flOz": 16.91,
+   "calories": 185,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Monster The Doctor VR46 (UK)",
+   "flOz": 16.91,
+   "calories": 219,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Monster Ultra",
+   "flOz": 16,
+   "calories": 10,
+   "caffeineMg": 150,
+   "caffeineMgFlOz": 9.4
+ },
+ {
+   "drinkName": "Monster Zero Sugar",
+   "flOz": 16,
+   "calories": 10,
+   "caffeineMg": 140,
+   "caffeineMgFlOz": 8.8
+ },
+ {
+   "drinkName": "Moose Juice Energy Drink",
+   "flOz": 16.94,
+   "calories": 0,
+   "caffeineMg": 200,
+   "caffeineMgFlOz": 11.8
+ },
+ {
+   "drinkName": "Morning Thunder Tea",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 45,
+   "caffeineMgFlOz": 5.6
+ },
+ {
+   "drinkName": "Mother Energy Drink",
+   "flOz": 16.91,
+   "calories": 228,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Mountain Dew",
+   "flOz": 12,
+   "calories": 170,
+   "caffeineMg": 54,
+   "caffeineMgFlOz": 4.5
+ },
+ {
+   "drinkName": "Mountain Dew Amp",
+   "flOz": 16,
+   "calories": 220,
+   "caffeineMg": 142,
+   "caffeineMgFlOz": 8.9
+ },
+ {
+   "drinkName": "Mountain Dew Baja Blast",
+   "flOz": 12,
+   "calories": 170,
+   "caffeineMg": 54,
+   "caffeineMgFlOz": 4.5
+ },
+ {
+   "drinkName": "Mountain Dew Code Red",
+   "flOz": 12,
+   "calories": 170,
+   "caffeineMg": 54,
+   "caffeineMgFlOz": 4.5
+ },
+ {
+   "drinkName": "Mountain Dew Game Fuel",
+   "flOz": 16,
+   "calories": 90,
+   "caffeineMg": 90,
+   "caffeineMgFlOz": 5.6
+ },
+ {
+   "drinkName": "Mountain Dew Kickstart",
+   "flOz": 16,
+   "calories": 80,
+   "caffeineMg": 90,
+   "caffeineMgFlOz": 5.6
+ },
+ {
+   "drinkName": "Mountain Dew Live Wire",
+   "flOz": 12,
+   "calories": 180,
+   "caffeineMg": 54,
+   "caffeineMgFlOz": 4.5
+ },
+ {
+   "drinkName": "Mountain Dew Major Melon",
+   "flOz": 12,
+   "calories": 160,
+   "caffeineMg": 55,
+   "caffeineMgFlOz": 4.6
+ },
+ {
+   "drinkName": "Mountain Dew Rise",
+   "flOz": 16,
+   "calories": 25,
+   "caffeineMg": 180,
+   "caffeineMgFlOz": 11.2
+ },
+ {
+   "drinkName": "Mountain Dew Voltage",
+   "flOz": 12,
+   "calories": 170,
+   "caffeineMg": 55,
+   "caffeineMgFlOz": 4.6
+ },
+ {
+   "drinkName": "Mountain Dew Zero Sugar",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 68,
+   "caffeineMgFlOz": 5.7
+ },
+ {
+   "drinkName": "Moxie Soda",
+   "flOz": 12,
+   "calories": 140,
+   "caffeineMg": 24,
+   "caffeineMgFlOz": 2
+ },
+ {
+   "drinkName": "Mucho Mango Energy Drink",
+   "flOz": 8,
+   "calories": 100,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Mug Root Beer",
+   "flOz": 12,
+   "calories": 160,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Muscle Milk Coffee House",
+   "flOz": 11,
+   "calories": 130,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 10.9
+ },
+ {
+   "drinkName": "Muscle Monster",
+   "flOz": 15,
+   "calories": 180,
+   "caffeineMg": 157,
+   "caffeineMgFlOz": 10.5
+ },
+ {
+   "drinkName": "Mushroom Coffee",
+   "flOz": 7,
+   "calories": 5,
+   "caffeineMg": 40,
+   "caffeineMgFlOz": 5.7
+ },
+ {
+   "drinkName": "Nerd Focus",
+   "flOz": 12,
+   "calories": 170,
+   "caffeineMg": 128,
+   "caffeineMgFlOz": 10.7
+ },
+ {
+   "drinkName": "Nescafe 3 in 1 Instant Coffee",
+   "flOz": 6,
+   "calories": 74,
+   "caffeineMg": 50,
+   "caffeineMgFlOz": 8.3
+ },
+ {
+   "drinkName": "Nescafe Dolce Gusto",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 106,
+   "caffeineMgFlOz": 13.2
+ },
+ {
+   "drinkName": "Nescafe Gold",
+   "flOz": 8.46,
+   "calories": 0,
+   "caffeineMg": 66,
+   "caffeineMgFlOz": 7.8
+ },
+ {
+   "drinkName": "Nescafe Ice Java",
+   "flOz": 8,
+   "calories": 50,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 12.5
+ },
+ {
+   "drinkName": "Nescafe Ricoffy",
+   "flOz": 8,
+   "calories": 10,
+   "caffeineMg": 6,
+   "caffeineMgFlOz": 0.8
+ },
+ {
+   "drinkName": "Nespresso Coffee Capsules",
+   "flOz": 1.35,
+   "calories": 0,
+   "caffeineMg": 60,
+   "caffeineMgFlOz": 44.4
+ },
+ {
+   "drinkName": "Nestea Iced Tea",
+   "flOz": 16.9,
+   "calories": 160,
+   "caffeineMg": 23,
+   "caffeineMgFlOz": 1.4
+ },
+ {
+   "drinkName": "Nestle Milo",
+   "flOz": 8,
+   "calories": 80,
+   "caffeineMg": 4,
+   "caffeineMgFlOz": 0.4
+ },
+ {
+   "drinkName": "Neu Nootropic Shot",
+   "flOz": 2,
+   "calories": 0,
+   "caffeineMg": 350,
+   "caffeineMgFlOz": 175
+ },
+ {
+   "drinkName": "Neuro Sonic",
+   "flOz": 14.5,
+   "calories": 35,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 6.9
+ },
+ {
+   "drinkName": "NOCCO Energy Drink (EU)",
+   "flOz": 11.17,
+   "calories": 0,
+   "caffeineMg": 180,
+   "caffeineMgFlOz": 16.1
+ },
+ {
+   "drinkName": "Noocaf Smart Coffee",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 20
+ },
+ {
+   "drinkName": "NOS Energy Drink",
+   "flOz": 16,
+   "calories": 200,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Nutramint Smart Serum",
+   "flOz": 2,
+   "calories": 45,
+   "caffeineMg": 200,
+   "caffeineMgFlOz": 100
+ },
+ {
+   "drinkName": "Nuun Sport",
+   "flOz": 16,
+   "calories": 15,
+   "caffeineMg": 40,
+   "caffeineMgFlOz": 2.5
+ },
+ {
+   "drinkName": "Ocean Spray Brew",
+   "flOz": 8,
+   "calories": 30,
+   "caffeineMg": 40,
+   "caffeineMgFlOz": 5
+ },
+ {
+   "drinkName": "Octane Energy Drink Mix",
+   "flOz": 12,
+   "calories": 25,
+   "caffeineMg": 225,
+   "caffeineMgFlOz": 18.8
+ },
+ {
+   "drinkName": "Oi Ocha Green Tea",
+   "flOz": 16.9,
+   "calories": 5,
+   "caffeineMg": 60,
+   "caffeineMgFlOz": 3.6
+ },
+ {
+   "drinkName": "Oikos Pro Fuel",
+   "flOz": 10,
+   "calories": 130,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "OK Energy Drink",
+   "flOz": 8.45,
+   "calories": 113,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Orange Crush",
+   "flOz": 12,
+   "calories": 160,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Oregon Chai Tea",
+   "flOz": 6,
+   "calories": 130,
+   "caffeineMg": 45,
+   "caffeineMgFlOz": 7.5
+ },
+ {
+   "drinkName": "Pacific Chai",
+   "flOz": 6,
+   "calories": 90,
+   "caffeineMg": 29,
+   "caffeineMgFlOz": 4.8
+ },
+ {
+   "drinkName": "Panera Bread Coffee",
+   "flOz": 16,
+   "calories": 15,
+   "caffeineMg": 189,
+   "caffeineMgFlOz": 11.8
+ },
+ {
+   "drinkName": "PC Cola",
+   "flOz": 12,
+   "calories": 150,
+   "caffeineMg": 12,
+   "caffeineMgFlOz": 1
+ },
+ {
+   "drinkName": "PC Cola Diet",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 13,
+   "caffeineMgFlOz": 1.1
+ },
+ {
+   "drinkName": "Peace Tea",
+   "flOz": 23,
+   "calories": 150,
+   "caffeineMg": 23,
+   "caffeineMgFlOz": 1
+ },
+ {
+   "drinkName": "Peet's Brewed Coffee",
+   "flOz": 16,
+   "calories": 5,
+   "caffeineMg": 267,
+   "caffeineMgFlOz": 16.7
+ },
+ {
+   "drinkName": "Peet's Caffe Americano",
+   "flOz": 16,
+   "calories": 10,
+   "caffeineMg": 140,
+   "caffeineMgFlOz": 8.8
+ },
+ {
+   "drinkName": "Peet's Caffe Latte",
+   "flOz": 16,
+   "calories": 190,
+   "caffeineMg": 140,
+   "caffeineMgFlOz": 8.8
+ },
+ {
+   "drinkName": "Peet's Caffe Mocha",
+   "flOz": 16,
+   "calories": 390,
+   "caffeineMg": 165,
+   "caffeineMgFlOz": 10.3
+ },
+ {
+   "drinkName": "Peet's Cappuccino",
+   "flOz": 16,
+   "calories": 140,
+   "caffeineMg": 140,
+   "caffeineMgFlOz": 8.8
+ },
+ {
+   "drinkName": "Peet's Coffee Espresso",
+   "flOz": 1.5,
+   "calories": 0,
+   "caffeineMg": 70,
+   "caffeineMgFlOz": 46.7
+ },
+ {
+   "drinkName": "Peet's Decaf Espresso",
+   "flOz": 1.5,
+   "calories": 0,
+   "caffeineMg": 10,
+   "caffeineMgFlOz": 6.7
+ },
+ {
+   "drinkName": "Peet's Iced Coffee",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 150,
+   "caffeineMgFlOz": 9.4
+ },
+ {
+   "drinkName": "Peet's Iced Latte",
+   "flOz": 16,
+   "calories": 120,
+   "caffeineMg": 140,
+   "caffeineMgFlOz": 8.8
+ },
+ {
+   "drinkName": "Peet's Iced Mocha",
+   "flOz": 16,
+   "calories": 310,
+   "caffeineMg": 165,
+   "caffeineMgFlOz": 10.3
+ },
+ {
+   "drinkName": "Pep Talk Sparkling Water",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 55,
+   "caffeineMgFlOz": 4.6
+ },
+ {
+   "drinkName": "Pepsi",
+   "flOz": 12,
+   "calories": 150,
+   "caffeineMg": 38,
+   "caffeineMgFlOz": 3.2
+ },
+ {
+   "drinkName": "Pepsi Caffeine Free",
+   "flOz": 12,
+   "calories": 150,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Pepsi Made With Sugar",
+   "flOz": 12,
+   "calories": 150,
+   "caffeineMg": 38,
+   "caffeineMgFlOz": 3.2
+ },
+ {
+   "drinkName": "Pepsi Max (UK)",
+   "flOz": 11.16,
+   "calories": 0,
+   "caffeineMg": 43,
+   "caffeineMgFlOz": 3.8
+ },
+ {
+   "drinkName": "Pepsi Zero Sugar",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 69,
+   "caffeineMgFlOz": 5.8
+ },
+ {
+   "drinkName": "Performance Caffeine",
+   "flOz": 2,
+   "calories": 0,
+   "caffeineMg": 180,
+   "caffeineMgFlOz": 90
+ },
+ {
+   "drinkName": "PerformElite Pre-Workout",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 225,
+   "caffeineMgFlOz": 28.1
+ },
+ {
+   "drinkName": "Perk Energy Beverage",
+   "flOz": 8,
+   "calories": 90,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 12.5
+ },
+ {
+   "drinkName": "Perrier Energize",
+   "flOz": 8.46,
+   "calories": 35,
+   "caffeineMg": 99,
+   "caffeineMgFlOz": 11.7
+ },
+ {
+   "drinkName": "Perrier Sparkling Water",
+   "flOz": 11.15,
+   "calories": 0,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "PG Tips Black Tea",
+   "flOz": 6.78,
+   "calories": 0,
+   "caffeineMg": 50,
+   "caffeineMgFlOz": 7.4
+ },
+ {
+   "drinkName": "Phocus Sparkling Water",
+   "flOz": 11.5,
+   "calories": 0,
+   "caffeineMg": 75,
+   "caffeineMgFlOz": 6.5
+ },
+ {
+   "drinkName": "Phoenix Energy Shot",
+   "flOz": 2,
+   "calories": 0,
+   "caffeineMg": 280,
+   "caffeineMgFlOz": 140
+ },
+ {
+   "drinkName": "Pibb Xtra",
+   "flOz": 12,
+   "calories": 140,
+   "caffeineMg": 40,
+   "caffeineMgFlOz": 3.3
+ },
+ {
+   "drinkName": "Poland Spring Sparkling Energy Water",
+   "flOz": 11.5,
+   "calories": 35,
+   "caffeineMg": 75,
+   "caffeineMgFlOz": 6.5
+ },
+ {
+   "drinkName": "Polar Frost Plus Energy",
+   "flOz": 17,
+   "calories": 10,
+   "caffeineMg": 67,
+   "caffeineMgFlOz": 3.9
+ },
+ {
+   "drinkName": "Polar Seltzer Water",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Power Horse Energy Drink (EU)",
+   "flOz": 8.45,
+   "calories": 125,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Premier Protein Cafe Latte",
+   "flOz": 11.5,
+   "calories": 160,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 10.4
+ },
+ {
+   "drinkName": "Premium Cola (EU)",
+   "flOz": 11.16,
+   "calories": 132,
+   "caffeineMg": 83,
+   "caffeineMgFlOz": 7.4
+ },
+ {
+   "drinkName": "Private Selection Canned Espresso",
+   "flOz": 15,
+   "calories": 230,
+   "caffeineMg": 145,
+   "caffeineMgFlOz": 9.7
+ },
+ {
+   "drinkName": "Propel Zero Powder",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Proper Wild Energy Shot",
+   "flOz": 2.5,
+   "calories": 25,
+   "caffeineMg": 180,
+   "caffeineMgFlOz": 72
+ },
+ {
+   "drinkName": "Protein2O + Energy",
+   "flOz": 16.91,
+   "calories": 70,
+   "caffeineMg": 125,
+   "caffeineMgFlOz": 7.4
+ },
+ {
+   "drinkName": "Pure Boost Energy Drink Mix",
+   "flOz": 16,
+   "calories": 25,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 6.2
+ },
+ {
+   "drinkName": "Pure Cofain 699 (EU)",
+   "flOz": 8.46,
+   "calories": 148,
+   "caffeineMg": 175,
+   "caffeineMgFlOz": 20.7
+ },
+ {
+   "drinkName": "Pure Kick Energy Drink Mix",
+   "flOz": 16.9,
+   "calories": 10,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 4.7
+ },
+ {
+   "drinkName": "Pure Leaf Iced Tea",
+   "flOz": 18.5,
+   "calories": 160,
+   "caffeineMg": 69,
+   "caffeineMgFlOz": 3.7
+ },
+ {
+   "drinkName": "Purity Coffee",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 163,
+   "caffeineMgFlOz": 20.4
+ },
+ {
+   "drinkName": "Quake Energy Berry Blast Slurpee",
+   "flOz": 16,
+   "calories": 5,
+   "caffeineMg": 92,
+   "caffeineMgFlOz": 5.8
+ },
+ {
+   "drinkName": "Quake Energy Drink",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 250,
+   "caffeineMgFlOz": 15.6
+ },
+ {
+   "drinkName": "Raze Energy Drink",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 300,
+   "caffeineMgFlOz": 18.8
+ },
+ {
+   "drinkName": "RC (Royal Crown) Cola",
+   "flOz": 12,
+   "calories": 160,
+   "caffeineMg": 43,
+   "caffeineMgFlOz": 3.6
+ },
+ {
+   "drinkName": "Red Bull",
+   "flOz": 8.46,
+   "calories": 117,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Red Bull Editions",
+   "flOz": 8.46,
+   "calories": 113,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Red Bull Simply Cola",
+   "flOz": 8.46,
+   "calories": 0,
+   "caffeineMg": 32,
+   "caffeineMgFlOz": 3.8
+ },
+ {
+   "drinkName": "Red Bull Sugarfree",
+   "flOz": 8.46,
+   "calories": 10,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Red Bull Zero",
+   "flOz": 8.46,
+   "calories": 0,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Red Eye Energy Drink",
+   "flOz": 11.1,
+   "calories": 149,
+   "caffeineMg": 106,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Red Power Elixir",
+   "flOz": 12,
+   "calories": 160,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 13.3
+ },
+ {
+   "drinkName": "Red Thunder Energy Drink",
+   "flOz": 12,
+   "calories": 156,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Red Thunder Energy Shot",
+   "flOz": 2,
+   "calories": 0,
+   "caffeineMg": 138,
+   "caffeineMgFlOz": 69
+ },
+ {
+   "drinkName": "Red Thunder Extra Strength",
+   "flOz": 2,
+   "calories": 0,
+   "caffeineMg": 230,
+   "caffeineMgFlOz": 115
+ },
+ {
+   "drinkName": "Redline Max 300",
+   "flOz": 2.5,
+   "calories": 0,
+   "caffeineMg": 300,
+   "caffeineMgFlOz": 120
+ },
+ {
+   "drinkName": "Redline Princess",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 300,
+   "caffeineMgFlOz": 37.5
+ },
+ {
+   "drinkName": "Redline Xtreme Energy Drink",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 316,
+   "caffeineMgFlOz": 39.5
+ },
+ {
+   "drinkName": "Redline Xtreme Shot",
+   "flOz": 3,
+   "calories": 5,
+   "caffeineMg": 300,
+   "caffeineMgFlOz": 100
+ },
+ {
+   "drinkName": "Reed's Ginger Energize Shot",
+   "flOz": 2,
+   "calories": 24,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 50
+ },
+ {
+   "drinkName": "Reign Total Body Fuel",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 300,
+   "caffeineMgFlOz": 18.8
+ },
+ {
+   "drinkName": "Revv Coffee Pods",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 127,
+   "caffeineMgFlOz": 15.9
+ },
+ {
+   "drinkName": "Rip It Energy Drink",
+   "flOz": 16,
+   "calories": 260,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Rip It Energy Shot",
+   "flOz": 2,
+   "calories": 0,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 60
+ },
+ {
+   "drinkName": "Ritz Cola",
+   "flOz": 12,
+   "calories": 144,
+   "caffeineMg": 10,
+   "caffeineMgFlOz": 0.9
+ },
+ {
+   "drinkName": "Roaring Lion Energy Drink",
+   "flOz": 8,
+   "calories": 100,
+   "caffeineMg": 77,
+   "caffeineMgFlOz": 9.6
+ },
+ {
+   "drinkName": "Robusta Coffee",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 265,
+   "caffeineMgFlOz": 33.1
+ },
+ {
+   "drinkName": "Rockstar Boom",
+   "flOz": 16,
+   "calories": 280,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Rockstar Energy Drink (Original)",
+   "flOz": 16,
+   "calories": 250,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Rockstar Juiced",
+   "flOz": 16,
+   "calories": 30,
+   "caffeineMg": 170,
+   "caffeineMgFlOz": 10.6
+ },
+ {
+   "drinkName": "Rockstar Organic Energy Drink",
+   "flOz": 15,
+   "calories": 180,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 10.7
+ },
+ {
+   "drinkName": "Rockstar Punched",
+   "flOz": 16,
+   "calories": 260,
+   "caffeineMg": 240,
+   "caffeineMgFlOz": 15
+ },
+ {
+   "drinkName": "Rockstar Pure Zero",
+   "flOz": 16,
+   "calories": 20,
+   "caffeineMg": 240,
+   "caffeineMgFlOz": 15
+ },
+ {
+   "drinkName": "Rockstar Recovery",
+   "flOz": 16,
+   "calories": 25,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Rockstar Sugar Free",
+   "flOz": 16,
+   "calories": 25,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Rockstar Thermo",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 300,
+   "caffeineMgFlOz": 18.8
+ },
+ {
+   "drinkName": "Rockstar XDurance",
+   "flOz": 16,
+   "calories": 10,
+   "caffeineMg": 300,
+   "caffeineMgFlOz": 18.8
+ },
+ {
+   "drinkName": "Rockstar Zero Carb",
+   "flOz": 16,
+   "calories": 25,
+   "caffeineMg": 240,
+   "caffeineMgFlOz": 15
+ },
+ {
+   "drinkName": "Rogue Energy Drink Mix",
+   "flOz": 16,
+   "calories": 5,
+   "caffeineMg": 175,
+   "caffeineMgFlOz": 10.9
+ },
+ {
+   "drinkName": "RootJack Caffeinated Pirate Root Beer",
+   "flOz": 12,
+   "calories": 200,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Rowdy Energy Drink",
+   "flOz": 16,
+   "calories": 5,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Ruby Red Squirt",
+   "flOz": 12,
+   "calories": 170,
+   "caffeineMg": 39,
+   "caffeineMgFlOz": 3.2
+ },
+ {
+   "drinkName": "Runa",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 150,
+   "caffeineMgFlOz": 12.5
+ },
+ {
+   "drinkName": "Rush! Energy Drink",
+   "flOz": 8.3,
+   "calories": 120,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.6
+ },
+ {
+   "drinkName": "Sambazon Amazon Energy Drink",
+   "flOz": 12,
+   "calories": 120,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Sarsaparilla",
+   "flOz": 12,
+   "calories": 170,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Scheckters Energy Drink",
+   "flOz": 8.46,
+   "calories": 78,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Screamin Energy Max Hit",
+   "flOz": 0.61,
+   "calories": 40,
+   "caffeineMg": 185,
+   "caffeineMgFlOz": 303.3
+ },
+ {
+   "drinkName": "Seattle's Best Brewed Coffee",
+   "flOz": 12,
+   "calories": 10,
+   "caffeineMg": 260,
+   "caffeineMgFlOz": 21.7
+ },
+ {
+   "drinkName": "Sencha Green Tea Shot",
+   "flOz": 6.4,
+   "calories": 0,
+   "caffeineMg": 40,
+   "caffeineMgFlOz": 6.2
+ },
+ {
+   "drinkName": "Shasta Cola",
+   "flOz": 12,
+   "calories": 170,
+   "caffeineMg": 43,
+   "caffeineMgFlOz": 3.6
+ },
+ {
+   "drinkName": "Shasta Diet Cola",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 47,
+   "caffeineMgFlOz": 3.9
+ },
+ {
+   "drinkName": "Shasta Mountain Rush",
+   "flOz": 12,
+   "calories": 150,
+   "caffeineMg": 54,
+   "caffeineMgFlOz": 4.5
+ },
+ {
+   "drinkName": "Ski Soda",
+   "flOz": 12,
+   "calories": 180,
+   "caffeineMg": 69,
+   "caffeineMgFlOz": 5.8
+ },
+ {
+   "drinkName": "Slammers Energy Drink (EU)",
+   "flOz": 8.46,
+   "calories": 122,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "SlimFast Shake - Cappuccino",
+   "flOz": 11,
+   "calories": 180,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 9.1
+ },
+ {
+   "drinkName": "Slurpee",
+   "flOz": 12,
+   "calories": 90,
+   "caffeineMg": 30,
+   "caffeineMgFlOz": 2.5
+ },
+ {
+   "drinkName": "Snapple Tea",
+   "flOz": 16,
+   "calories": 150,
+   "caffeineMg": 37,
+   "caffeineMgFlOz": 2.3
+ },
+ {
+   "drinkName": "Sneak Energy Drink Mix",
+   "flOz": 16,
+   "calories": 12,
+   "caffeineMg": 150,
+   "caffeineMgFlOz": 9.4
+ },
+ {
+   "drinkName": "SoBe Energy Citrus",
+   "flOz": 20,
+   "calories": 250,
+   "caffeineMg": 81,
+   "caffeineMgFlOz": 4
+ },
+ {
+   "drinkName": "SoBe Green Tea",
+   "flOz": 20,
+   "calories": 200,
+   "caffeineMg": 7,
+   "caffeineMgFlOz": 0.3
+ },
+ {
+   "drinkName": "Soda Stream",
+   "flOz": 8,
+   "calories": 40,
+   "caffeineMg": 31,
+   "caffeineMgFlOz": 3.9
+ },
+ {
+   "drinkName": "Solimo Energy Drink",
+   "flOz": 16,
+   "calories": 10,
+   "caffeineMg": 152,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Source 1899 (UK)",
+   "flOz": 8.46,
+   "calories": 58,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Southern Sweet Tea",
+   "flOz": 16,
+   "calories": 128,
+   "caffeineMg": 41,
+   "caffeineMgFlOz": 2.6
+ },
+ {
+   "drinkName": "Soylent Stacked",
+   "flOz": 11.16,
+   "calories": 180,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 9
+ },
+ {
+   "drinkName": "Spark Energy Drink Mix",
+   "flOz": 8,
+   "calories": 15,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 15
+ },
+ {
+   "drinkName": "Sparkling Ice +Caffeine",
+   "flOz": 16,
+   "calories": 5,
+   "caffeineMg": 70,
+   "caffeineMgFlOz": 4.4
+ },
+ {
+   "drinkName": "Speed Energy Fuel",
+   "flOz": 16,
+   "calories": 240,
+   "caffeineMg": 186,
+   "caffeineMgFlOz": 11.6
+ },
+ {
+   "drinkName": "Spider Energy Drink",
+   "flOz": 16,
+   "calories": 120,
+   "caffeineMg": 240,
+   "caffeineMgFlOz": 15
+ },
+ {
+   "drinkName": "Spike Energy Double Shot",
+   "flOz": 4.26,
+   "calories": 0,
+   "caffeineMg": 350,
+   "caffeineMgFlOz": 82.2
+ },
+ {
+   "drinkName": "Spike Hardcore Energy",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 350,
+   "caffeineMgFlOz": 21.9
+ },
+ {
+   "drinkName": "Spike Shooter",
+   "flOz": 12,
+   "calories": 10,
+   "caffeineMg": 300,
+   "caffeineMgFlOz": 25
+ },
+ {
+   "drinkName": "Sprecher Cherry Cola",
+   "flOz": 16,
+   "calories": 240,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Sprite",
+   "flOz": 12,
+   "calories": 140,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Squirt Soda",
+   "flOz": 12,
+   "calories": 140,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Stacker Extreme Energy Shot",
+   "flOz": 2,
+   "calories": 0,
+   "caffeineMg": 205,
+   "caffeineMgFlOz": 102.5
+ },
+ {
+   "drinkName": "Starbucks 2X Coffee Pods",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 260,
+   "caffeineMgFlOz": 32.5
+ },
+ {
+   "drinkName": "Starbucks Bottled Cold Brew",
+   "flOz": 11,
+   "calories": 50,
+   "caffeineMg": 180,
+   "caffeineMgFlOz": 16.4
+ },
+ {
+   "drinkName": "Starbucks Bottled Frappuccino",
+   "flOz": 13.7,
+   "calories": 300,
+   "caffeineMg": 110,
+   "caffeineMgFlOz": 8
+ },
+ {
+   "drinkName": "Starbucks Bottled Iced Coffee",
+   "flOz": 48,
+   "calories": 240,
+   "caffeineMg": 640,
+   "caffeineMgFlOz": 13.3
+ },
+ {
+   "drinkName": "Starbucks Canned Nitro Cold Brew",
+   "flOz": 11,
+   "calories": 0,
+   "caffeineMg": 235,
+   "caffeineMgFlOz": 21.4
+ },
+ {
+   "drinkName": "Starbucks Caramel Macchiato",
+   "flOz": 16,
+   "calories": 250,
+   "caffeineMg": 150,
+   "caffeineMgFlOz": 9.4
+ },
+ {
+   "drinkName": "Starbucks Cold & Crafted",
+   "flOz": 11,
+   "calories": 50,
+   "caffeineMg": 135,
+   "caffeineMgFlOz": 12.3
+ },
+ {
+   "drinkName": "Starbucks Cold Brew Coffee",
+   "flOz": 16,
+   "calories": 5,
+   "caffeineMg": 205,
+   "caffeineMgFlOz": 12.8
+ },
+ {
+   "drinkName": "Starbucks Cordusio Mocha",
+   "flOz": 8,
+   "calories": 130,
+   "caffeineMg": 155,
+   "caffeineMgFlOz": 19.4
+ },
+ {
+   "drinkName": "Starbucks Decaf Coffee",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 25,
+   "caffeineMgFlOz": 1.6
+ },
+ {
+   "drinkName": "Starbucks Doubleshot Energy",
+   "flOz": 15,
+   "calories": 220,
+   "caffeineMg": 135,
+   "caffeineMgFlOz": 9
+ },
+ {
+   "drinkName": "Starbucks Doubleshot Espresso",
+   "flOz": 6.5,
+   "calories": 140,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 18.5
+ },
+ {
+   "drinkName": "Starbucks Grande Caffe Americano",
+   "flOz": 16,
+   "calories": 15,
+   "caffeineMg": 225,
+   "caffeineMgFlOz": 14.1
+ },
+ {
+   "drinkName": "Starbucks Grande Caffe Latte",
+   "flOz": 16,
+   "calories": 190,
+   "caffeineMg": 150,
+   "caffeineMgFlOz": 9.4
+ },
+ {
+   "drinkName": "Starbucks Grande Caffe Mocha",
+   "flOz": 16,
+   "calories": 370,
+   "caffeineMg": 175,
+   "caffeineMgFlOz": 10.9
+ },
+ {
+   "drinkName": "Starbucks Grande Cappuccino",
+   "flOz": 16,
+   "calories": 140,
+   "caffeineMg": 150,
+   "caffeineMgFlOz": 9.4
+ },
+ {
+   "drinkName": "Starbucks Grande Coffee",
+   "flOz": 16,
+   "calories": 5,
+   "caffeineMg": 310,
+   "caffeineMgFlOz": 19.4
+ },
+ {
+   "drinkName": "Starbucks Iced Americano",
+   "flOz": 16,
+   "calories": 15,
+   "caffeineMg": 225,
+   "caffeineMgFlOz": 14.1
+ },
+ {
+   "drinkName": "Starbucks Iced Espresso Classics",
+   "flOz": 12,
+   "calories": 190,
+   "caffeineMg": 125,
+   "caffeineMgFlOz": 10.4
+ },
+ {
+   "drinkName": "Starbucks Nitro Cold Brew Coffee",
+   "flOz": 16,
+   "calories": 5,
+   "caffeineMg": 280,
+   "caffeineMgFlOz": 17.5
+ },
+ {
+   "drinkName": "Starbucks Pink Drink",
+   "flOz": 16,
+   "calories": 140,
+   "caffeineMg": 45,
+   "caffeineMgFlOz": 2.8
+ },
+ {
+   "drinkName": "Starbucks Pumpkin Cream Cold Brew",
+   "flOz": 16,
+   "calories": 250,
+   "caffeineMg": 185,
+   "caffeineMgFlOz": 11.6
+ },
+ {
+   "drinkName": "Starbucks Refreshers",
+   "flOz": 16,
+   "calories": 70,
+   "caffeineMg": 45,
+   "caffeineMgFlOz": 2.8
+ },
+ {
+   "drinkName": "Starbucks Refreshers Canned",
+   "flOz": 12,
+   "calories": 90,
+   "caffeineMg": 50,
+   "caffeineMgFlOz": 4.2
+ },
+ {
+   "drinkName": "Starbucks Triple Shot Energy",
+   "flOz": 15,
+   "calories": 210,
+   "caffeineMg": 225,
+   "caffeineMgFlOz": 15
+ },
+ {
+   "drinkName": "Starbucks Verismo Coffee Pods",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 60,
+   "caffeineMgFlOz": 7.5
+ },
+ {
+   "drinkName": "Starbucks Via Ready Brew",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 135,
+   "caffeineMgFlOz": 16.9
+ },
+ {
+   "drinkName": "Steaz Energy",
+   "flOz": 12,
+   "calories": 140,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 8.3
+ },
+ {
+   "drinkName": "Steep 18 Cold Brew",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 90,
+   "caffeineMgFlOz": 11.2
+ },
+ {
+   "drinkName": "Stipe Miocic Extra Strength Coffee",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 500,
+   "caffeineMgFlOz": 41.7
+ },
+ {
+   "drinkName": "Stok Coffee Shots",
+   "flOz": 0.43,
+   "calories": 10,
+   "caffeineMg": 40,
+   "caffeineMgFlOz": 93
+ },
+ {
+   "drinkName": "Stok Cold Brew",
+   "flOz": 13.7,
+   "calories": 0,
+   "caffeineMg": 145,
+   "caffeineMgFlOz": 10.6
+ },
+ {
+   "drinkName": "Strike Force Energy Drink Mix",
+   "flOz": 16.91,
+   "calories": 0,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Stumptown Cold Brew Coffee",
+   "flOz": 10.5,
+   "calories": 3,
+   "caffeineMg": 279,
+   "caffeineMgFlOz": 26.6
+ },
+ {
+   "drinkName": "Stumptown Nitro Cold Brew",
+   "flOz": 11,
+   "calories": 3,
+   "caffeineMg": 330,
+   "caffeineMgFlOz": 30
+ },
+ {
+   "drinkName": "Sudden Instant Coffee",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 95,
+   "caffeineMgFlOz": 7.9
+ },
+ {
+   "drinkName": "Sun Drop Soda",
+   "flOz": 12,
+   "calories": 170,
+   "caffeineMg": 64,
+   "caffeineMgFlOz": 5.3
+ },
+ {
+   "drinkName": "Sunkist Orange Soda",
+   "flOz": 12,
+   "calories": 160,
+   "caffeineMg": 19,
+   "caffeineMgFlOz": 1.6
+ },
+ {
+   "drinkName": "Sunup Green Coffee",
+   "flOz": 15,
+   "calories": 60,
+   "caffeineMg": 285,
+   "caffeineMgFlOz": 19
+ },
+ {
+   "drinkName": "T-Virus Antidote",
+   "flOz": 12,
+   "calories": 160,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 8.3
+ },
+ {
+   "drinkName": "Taft Coffee (EU)",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 1182,
+   "caffeineMgFlOz": 98.5
+ },
+ {
+   "drinkName": "Taiwanese Milk Tea",
+   "flOz": 16,
+   "calories": 299,
+   "caffeineMg": 151,
+   "caffeineMgFlOz": 9.4
+ },
+ {
+   "drinkName": "Taster's Choice Instant Coffee",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 98,
+   "caffeineMgFlOz": 12.2
+ },
+ {
+   "drinkName": "Taurus Energy Drink",
+   "flOz": 8.46,
+   "calories": 180,
+   "caffeineMg": 50,
+   "caffeineMgFlOz": 5.9
+ },
+ {
+   "drinkName": "Tazo Chai",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 47,
+   "caffeineMgFlOz": 5.9
+ },
+ {
+   "drinkName": "Tea (Black)",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 42,
+   "caffeineMgFlOz": 5.2
+ },
+ {
+   "drinkName": "Tea (Decaf)",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 4,
+   "caffeineMgFlOz": 0.5
+ },
+ {
+   "drinkName": "Tea (Green)",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 18,
+   "caffeineMgFlOz": 2.2
+ },
+ {
+   "drinkName": "Tea (Herbal)",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Tea (Iced)",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 47,
+   "caffeineMgFlOz": 5.9
+ },
+ {
+   "drinkName": "Tea (Instant)",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 40,
+   "caffeineMgFlOz": 5
+ },
+ {
+   "drinkName": "Tea (Jasmine)",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 25,
+   "caffeineMgFlOz": 3.1
+ },
+ {
+   "drinkName": "Tea (Oolong)",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 37,
+   "caffeineMgFlOz": 4.6
+ },
+ {
+   "drinkName": "Tea (White)",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 28,
+   "caffeineMgFlOz": 3.5
+ },
+ {
+   "drinkName": "Teas' Tea Oolong",
+   "flOz": 16.9,
+   "calories": 0,
+   "caffeineMg": 70,
+   "caffeineMgFlOz": 4.1
+ },
+ {
+   "drinkName": "Teavana Tea",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 41,
+   "caffeineMgFlOz": 5.1
+ },
+ {
+   "drinkName": "Tejava Iced Tea",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 50,
+   "caffeineMgFlOz": 4.2
+ },
+ {
+   "drinkName": "TENZING Natural Energy",
+   "flOz": 8.46,
+   "calories": 50,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Tiger Energy Drink",
+   "flOz": 8.46,
+   "calories": 0,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Tim Hortons Large Brewed Coffee",
+   "flOz": 20,
+   "calories": 5,
+   "caffeineMg": 200,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Tim Hortons Small French Vanilla Coffee",
+   "flOz": 10,
+   "calories": 0,
+   "caffeineMg": 60,
+   "caffeineMgFlOz": 6
+ },
+ {
+   "drinkName": "Tonic Water",
+   "flOz": 10,
+   "calories": 110,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Triton Energy Drink",
+   "flOz": 16,
+   "calories": 15,
+   "caffeineMg": 200,
+   "caffeineMgFlOz": 12.5
+ },
+ {
+   "drinkName": "Tropicana Twister Soda",
+   "flOz": 20,
+   "calories": 320,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Tru Energy Wakeup",
+   "flOz": 12,
+   "calories": 10,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 8.3
+ },
+ {
+   "drinkName": "TruBrain Extra",
+   "flOz": 1,
+   "calories": 25,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 100
+ },
+ {
+   "drinkName": "True Lemon Energy Mix",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 7.5
+ },
+ {
+   "drinkName": "TrueStart Performance Coffee",
+   "flOz": 5.1,
+   "calories": 0,
+   "caffeineMg": 95,
+   "caffeineMgFlOz": 18.6
+ },
+ {
+   "drinkName": "Turkey Hill Iced Tea",
+   "flOz": 12,
+   "calories": 120,
+   "caffeineMg": 64,
+   "caffeineMgFlOz": 5.3
+ },
+ {
+   "drinkName": "Turkish Coffee",
+   "flOz": 2,
+   "calories": 20,
+   "caffeineMg": 50,
+   "caffeineMgFlOz": 25
+ },
+ {
+   "drinkName": "Tweaker Energy Drink",
+   "flOz": 8.46,
+   "calories": 110,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Tweaker Shot",
+   "flOz": 2,
+   "calories": 0,
+   "caffeineMg": 275,
+   "caffeineMgFlOz": 137.5
+ },
+ {
+   "drinkName": "Twig Tea (Kukicha)",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 25,
+   "caffeineMgFlOz": 3.1
+ },
+ {
+   "drinkName": "Ugly Energy Water",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "UPTIME Energy Drink",
+   "flOz": 12,
+   "calories": 150,
+   "caffeineMg": 142,
+   "caffeineMgFlOz": 11.8
+ },
+ {
+   "drinkName": "USANA Rev3 Energy Drink",
+   "flOz": 12,
+   "calories": 105,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "V  Iced Coffee",
+   "flOz": 16.91,
+   "calories": 345,
+   "caffeineMg": 155,
+   "caffeineMgFlOz": 9.2
+ },
+ {
+   "drinkName": "V Energy Drink",
+   "flOz": 8.45,
+   "calories": 116,
+   "caffeineMg": 78,
+   "caffeineMgFlOz": 9.2
+ },
+ {
+   "drinkName": "V8 +Energy Drink",
+   "flOz": 8,
+   "calories": 140,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Venom Death Adder",
+   "flOz": 16,
+   "calories": 160,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Vernors Ginger Ale",
+   "flOz": 12,
+   "calories": 140,
+   "caffeineMg": 0,
+   "caffeineMgFlOz": 0
+ },
+ {
+   "drinkName": "Very Strong Coffee",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 1350,
+   "caffeineMgFlOz": 112.5
+ },
+ {
+   "drinkName": "Virtue Clean Energy Beverage",
+   "flOz": 8.46,
+   "calories": 8,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Viso Energy Drink",
+   "flOz": 17,
+   "calories": 140,
+   "caffeineMg": 300,
+   "caffeineMgFlOz": 17.6
+ },
+ {
+   "drinkName": "Vital 4U Liquid Energy",
+   "flOz": 0.5,
+   "calories": 34,
+   "caffeineMg": 155,
+   "caffeineMgFlOz": 310
+ },
+ {
+   "drinkName": "VitaminWater Energy",
+   "flOz": 20,
+   "calories": 100,
+   "caffeineMg": 50,
+   "caffeineMgFlOz": 2.5
+ },
+ {
+   "drinkName": "VitaRain Zero Enhanced Water",
+   "flOz": 20,
+   "calories": 0,
+   "caffeineMg": 42,
+   "caffeineMgFlOz": 2.1
+ },
+ {
+   "drinkName": "Voila Instant Coffee",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 12.5
+ },
+ {
+   "drinkName": "Waka Decaf Instant Coffee",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 4,
+   "caffeineMgFlOz": 0.5
+ },
+ {
+   "drinkName": "Waka Indian Instant Coffee",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 70,
+   "caffeineMgFlOz": 8.8
+ },
+ {
+   "drinkName": "Waka Instant Coffee",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 70,
+   "caffeineMgFlOz": 8.8
+ },
+ {
+   "drinkName": "Waka Instant Tea",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 30,
+   "caffeineMgFlOz": 3.8
+ },
+ {
+   "drinkName": "Water Joe",
+   "flOz": 20,
+   "calories": 0,
+   "caffeineMg": 70,
+   "caffeineMgFlOz": 3.5
+ },
+ {
+   "drinkName": "Wave Soda",
+   "flOz": 12,
+   "calories": 25,
+   "caffeineMg": 42,
+   "caffeineMgFlOz": 3.5
+ },
+ {
+   "drinkName": "Wawa Coffee",
+   "flOz": 16,
+   "calories": 4,
+   "caffeineMg": 290,
+   "caffeineMgFlOz": 18.1
+ },
+ {
+   "drinkName": "Wendy's Iced Tea",
+   "flOz": 16,
+   "calories": 5,
+   "caffeineMg": 32,
+   "caffeineMgFlOz": 2
+ },
+ {
+   "drinkName": "Whipped (Dalgona) Coffee",
+   "flOz": 8,
+   "calories": 48,
+   "caffeineMg": 105,
+   "caffeineMgFlOz": 13.1
+ },
+ {
+   "drinkName": "Wide Awak Energy Coffee",
+   "flOz": 15,
+   "calories": 190,
+   "caffeineMg": 180,
+   "caffeineMgFlOz": 12
+ },
+ {
+   "drinkName": "Wide Awake Coffee Cold Brew",
+   "flOz": 11,
+   "calories": 5,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 10.9
+ },
+ {
+   "drinkName": "Wide Awake Iced Coffee Drinks",
+   "flOz": 13.7,
+   "calories": 290,
+   "caffeineMg": 30,
+   "caffeineMgFlOz": 2.2
+ },
+ {
+   "drinkName": "Wild Cherry Pepsi",
+   "flOz": 12,
+   "calories": 160,
+   "caffeineMg": 38,
+   "caffeineMgFlOz": 3.2
+ },
+ {
+   "drinkName": "Wild Tiger Energy Drink",
+   "flOz": 8.36,
+   "calories": 125,
+   "caffeineMg": 75,
+   "caffeineMgFlOz": 9
+ },
+ {
+   "drinkName": "Wildcat Energy Drink (UK)",
+   "flOz": 8.46,
+   "calories": 115,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Wired X 3000 Energy Drink",
+   "flOz": 16,
+   "calories": 220,
+   "caffeineMg": 185,
+   "caffeineMgFlOz": 11.6
+ },
+ {
+   "drinkName": "Wired X Berry Rush",
+   "flOz": 16,
+   "calories": 220,
+   "caffeineMg": 95,
+   "caffeineMgFlOz": 5.9
+ },
+ {
+   "drinkName": "Wired X344 Energy Drink",
+   "flOz": 16,
+   "calories": 220,
+   "caffeineMg": 344,
+   "caffeineMgFlOz": 21.5
+ },
+ {
+   "drinkName": "Woke Up Energy Shot",
+   "flOz": 1.93,
+   "calories": 0,
+   "caffeineMg": 225,
+   "caffeineMgFlOz": 116.6
+ },
+ {
+   "drinkName": "X Ray Energy Drink",
+   "flOz": 8.46,
+   "calories": 125,
+   "caffeineMg": 79,
+   "caffeineMgFlOz": 9.3
+ },
+ {
+   "drinkName": "X-Mode Energy Shot",
+   "flOz": 1,
+   "calories": 0,
+   "caffeineMg": 150,
+   "caffeineMgFlOz": 150
+ },
+ {
+   "drinkName": "Xing Craft Brew",
+   "flOz": 16,
+   "calories": 5,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 7.5
+ },
+ {
+   "drinkName": "Xingtea Iced Green Tea",
+   "flOz": 23.5,
+   "calories": 50,
+   "caffeineMg": 110,
+   "caffeineMgFlOz": 4.7
+ },
+ {
+   "drinkName": "XL Energy Drink (EU)",
+   "flOz": 8.45,
+   "calories": 118,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "XS Energy Drink",
+   "flOz": 8.4,
+   "calories": 10,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 9.5
+ },
+ {
+   "drinkName": "Xtreme Shock Energy Drink",
+   "flOz": 12,
+   "calories": 20,
+   "caffeineMg": 200,
+   "caffeineMgFlOz": 16.7
+ },
+ {
+   "drinkName": "Xyience Energy Drink",
+   "flOz": 16,
+   "calories": 15,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Yellow Tea",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 63,
+   "caffeineMgFlOz": 7.9
+ },
+ {
+   "drinkName": "Yerba Mate Tea",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 40,
+   "caffeineMgFlOz": 5
+ },
+ {
+   "drinkName": "Yerbae Sparkling Water",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 8.3
+ },
+ {
+   "drinkName": "YMateina Yerba Mate",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Zest Highly Caffeinated Tea",
+   "flOz": 8,
+   "calories": 0,
+   "caffeineMg": 150,
+   "caffeineMgFlOz": 18.8
+ },
+ {
+   "drinkName": "Zest Sparkling Tea",
+   "flOz": 12,
+   "calories": 60,
+   "caffeineMg": 135,
+   "caffeineMgFlOz": 11.2
+ },
+ {
+   "drinkName": "Zevia Cola",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 45,
+   "caffeineMgFlOz": 3.8
+ },
+ {
+   "drinkName": "Zevia Energy Drink",
+   "flOz": 12,
+   "calories": 0,
+   "caffeineMg": 120,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "ZipFizz Energy Drink Mix",
+   "flOz": 16,
+   "calories": 20,
+   "caffeineMg": 100,
+   "caffeineMgFlOz": 6.2
+ },
+ {
+   "drinkName": "Zoa Energy Drink",
+   "flOz": 16,
+   "calories": 100,
+   "caffeineMg": 160,
+   "caffeineMgFlOz": 10
+ },
+ {
+   "drinkName": "Zola Coconut Water Espresso",
+   "flOz": 17.5,
+   "calories": 0,
+   "caffeineMg": 125,
+   "caffeineMgFlOz": 7.1
+ },
+ {
+   "drinkName": "Zombie Blood Energy Potion",
+   "flOz": 3.4,
+   "calories": 25,
+   "caffeineMg": 80,
+   "caffeineMgFlOz": 23.5
+ },
+ {
+   "drinkName": "Monster Ultra Sunrise",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 150,
+   "caffeineMgFlOz": 9.4
+ },
+ {
+   "drinkName": "Black Coffee",
+   "flOz": 8,
+   "calories": 1,
+   "caffeineMg": 95,
+   "caffeineMgFlOz": 11.9
+ },
+ {
+   "drinkName": "Americano",
+   "flOz": 6,
+   "calories": 15,
+   "caffeineMg": 77,
+   "caffeineMgFlOz": 12.8
+ },
+ {
+   "drinkName": "Sugar free NOS",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 260,
+   "caffeineMgFlOz": 16.25
+ },
+ {
+   "drinkName": "5 Hour Energy",
+   "flOz": 2,
+   "calories": 4,
+   "caffeineMg": 200,
+   "caffeineMgFlOz": 100
+ },
+ {
+   "drinkName": "BAWLS GUARANA ZERO",
+   "flOz": 16,
+   "calories": 0,
+   "caffeineMg": 102,
+   "caffeineMgFlOz": 6.4
+ }
+]

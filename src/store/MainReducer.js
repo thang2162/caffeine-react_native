@@ -7,7 +7,7 @@ const reducer = (state, action) => {
       return initialState;
     case "set":
       const setObj = new dispatchObj('setObj');
-      setObj.setObj = action;
+      setObj.setObj = action.data;
       //console.log(JSON.stringify(setObj.getAll()));
       return { ...state, ...setObj.getObj };
     default:

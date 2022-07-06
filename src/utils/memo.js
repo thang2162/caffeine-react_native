@@ -5,19 +5,19 @@ import {saveDrink, getDrinks, removeDrink} from './db';
 const MainMemo = (store, dispatch) => {
   const Memo = () => ({
     setScanResult: text => {
-      dispatch({type: 'set', scanResult: text});
+      dispatch({type: 'set', data: {scanResult: text}});
     },
     toggleLoader: showLoader => {
       console.log(showLoader);
       return new Promise(async resolve => {
-        await dispatch({type: 'set', isLoading: showLoader});
+        await dispatch({type: 'set', data: {isLoading: showLoader}});
         resolve();
       });
     },
     showGlobalStatus: (message, duration) => {
       dispatch({
         type: 'set',
-        status: {show: true, message: message, duration: duration},
+        data: {status: {show: true, message: message, duration: duration}},
       });
     },
     addDrink: (name, caffeineLvl) => {
@@ -51,13 +51,14 @@ const MainMemo = (store, dispatch) => {
               drinksList: drinks,
             });
           } else {
-              resolve({
-                currentCaffeineLevel: drinks.reduce(
-                  (accumulator, currentValue) =>
-                    accumulator + currentValue.caffeineLevel, 0
-                ),
-                drinksList: drinks,
-              });
+            resolve({
+              currentCaffeineLevel: drinks.reduce(
+                (accumulator, currentValue) =>
+                  accumulator + currentValue.caffeineLevel,
+                0,
+              ),
+              drinksList: drinks,
+            });
           }
         } catch (e) {
           console.log(e);
